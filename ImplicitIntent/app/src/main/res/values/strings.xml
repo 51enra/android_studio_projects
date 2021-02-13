@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="edit_website_hint">https://telekom.de</string>
+    <string name="button_open_website">Open Website</string>
+    <string name="edit_location">Münsterplatz</string>
+    <string name="button_open_location">open Location</string>
+    <string name="button_share_text">Share This Text</string>
+    <string name="edit_share_text">Hollahi Hollaho</string>
+    <string name="share_text_with">\"Share this text with: \"</string>
+</resources>
